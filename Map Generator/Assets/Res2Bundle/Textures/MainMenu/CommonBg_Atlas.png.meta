@@ -1,0 +1,1886 @@
+fileFormatVersion: 2
+guid: 210070d1ce7006b458770bba1b8af38a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CommonBg_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 851
+        width: 164
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c7cff2ce5dfe54f9831ee9c9b6ab6b
+      internalID: -1693051009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 983
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440de8a7e53436e46b5886fc91c80c90
+      internalID: -876662883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 983
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f01746faf46bbf42b4d3e7c4e5c1a4f
+      internalID: 143163306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 983
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac47990ef39e7346a74ca63d0a4f589
+      internalID: -1923309386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 939
+        width: 204
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abed3d580ab57bd498216c6d383aee24
+      internalID: -1740230204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 939
+        width: 152
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bf4b930f1ed59499e8f6101129166e
+      internalID: 723369751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 891
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e4a304e55546746a86df00e1918034
+      internalID: 1366369693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 854
+        width: 127
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eca022869fc23343aeaddf1f1d6df73
+      internalID: 1502987424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 939
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592625520cafed04e976c67378cdf0af
+      internalID: 732357536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 897
+        width: 389
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42229cf416e5d064ca7d21284b324496
+      internalID: -1106457779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 127
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b59dbd7cebc97478307397ea88dd6d
+      internalID: 1570545905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 773
+        width: 256
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37151e5533b24bf4a848f25b9e2a9422
+      internalID: 223938287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 642
+        width: 65
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055cee7ce0940cd4280acad86a2cdc31
+      internalID: -9399662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 770
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83197b6366965e843b1b382881b7ae29
+      internalID: -108892535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 770
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79670c074d9836f4eb83399ae9526c93
+      internalID: 1800722551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 845
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221743a9acebc7d4ba603dd9769371fa
+      internalID: -164471112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 642
+        width: 187
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1079a51631856d54f9f6a75503d38b36
+      internalID: -235989387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 642
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe9ea824a1dd354f829610ec1fdb926
+      internalID: 560463705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 642
+        width: 123
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda6ec037c5a0394d9d6c960d8d60519
+      internalID: 1196585181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 719
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f952414b9ca9484ea28377717c35c11
+      internalID: 1428859592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 719
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb1685a8f89bc9459a22bcff15ae452
+      internalID: 833571371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 719
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02eabb672a69d846826e50b2cb236d7
+      internalID: 722878429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 624
+        width: 10
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f265e5ec59f165548a27d20a150a83d6
+      internalID: -207455729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 624
+        width: 10
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0edfe7d4296804785f54cd8857f73a
+      internalID: 1070946014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 517
+        width: 10
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1505cf08cc07caf4aba37ddc1c4beb38
+      internalID: -914125638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 517
+        width: 10
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a99ddad66f4cfc4fa0dc930ede80077
+      internalID: -715206853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 517
+        width: 10
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a739e6c99dc9042876fb2472827075
+      internalID: 224276253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 517
+        width: 10
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d11cd6b519b5cb4d9a85acab5e9beef
+      internalID: -656750497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 665
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc18039055df91418ed9045ab558c3f
+      internalID: 821327483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 665
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907515506a823a348a307e22cf1c4c91
+      internalID: 758474479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 665
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2862643110a3f0a4a8c06a6818d38830
+      internalID: -219978032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 642
+        width: 139
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63aaa2cb439ad145afb865bafbe86d2
+      internalID: -159603306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 512
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac4257d154364a478dfcbc3ef3524c1
+      internalID: 2041642357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 541
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591a50b81ac54c2488c13e0c11cc0173
+      internalID: -1778564599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 624
+        width: 310
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a367301e92e2279469442bf828537826
+      internalID: -1386042249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 603
+        width: 375
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db3c33de896cfb4f8a854b755101154
+      internalID: 1074889347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 508
+        width: 256
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3cf3bc9f1695d49a9d4aef86223e7c
+      internalID: -1559520326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 541
+        width: 125
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226497bf7ac21d4418b949b36ca3aabf
+      internalID: 1503135198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 541
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f1cbabd5371b04284cafe1e103e603
+      internalID: -13554920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 529
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db461ece42d1540ae6690dd55c994f
+      internalID: -959019241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 489
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42dfae914952a949912ddef0bdfa1d3
+      internalID: -239302960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 550
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4574ac1c3ded3a4eba568132752423d
+      internalID: -831187119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 529
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40837e9acf1bf8a41a801116c7d80107
+      internalID: -299303927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 489
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6fa0efec033c245ac84d046a58c881
+      internalID: 1454342896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f2dcef42f179c439bc40c09185f2b6
+      internalID: -1203423172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 431
+        width: 109
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6138168f7f4db174aaa41ff797b7fcb8
+      internalID: -1316526070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 431
+        width: 126
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbdcb0b84b2d34479ca1c993ad444eb
+      internalID: 1412445801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 448
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f964c181c378945b14d71cae021b5f
+      internalID: -1630355377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 406
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b46d1004de59b14285cfcf0fc8092d4
+      internalID: 307047995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 462
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b71730b339c3bb4ba6a5973ee092289
+      internalID: -1952037869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 393
+        width: 213
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044a4d436f3b7724eaf8391e63534688
+      internalID: -1648420506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 359
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3db11d00a23c534ea244040cf18961c
+      internalID: -1624888711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 406
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872c76d52faee7a439293c1655cad4ff
+      internalID: -128342680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 406
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4be6f3d092234c42bc2fcfa5e7795c1
+      internalID: 487545437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 404
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9243a665c029d3438ba4405572dbae5
+      internalID: -849728387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 296
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3f1c9be0593bb42a7c0c9445592142
+      internalID: -919370735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 296
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0329799cfde2aef4ab88d766a6b2a549
+      internalID: -1747644689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 337
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd93ecb8a5e694248a3038305ad61ad6
+      internalID: -1847506949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 359
+        width: 134
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74d31966c1fe1444a0e45799e1242f5
+      internalID: 1171371000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 357
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aa3f6b71b4493498be2ddc94b0e3a9
+      internalID: 1692848445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 337
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7cebb098229c84fb968c57d374f6b4
+      internalID: -1681905015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 296
+        width: 155
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5849e85f931d62242814303aec9c0490
+      internalID: 1910490908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 296
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef4e8f5c214c2b49a67bc44c09ea7e6
+      internalID: -1866861955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 242
+        width: 195
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fa4fa325878ec42be59d379fc914c7
+      internalID: -640632756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 242
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28421abfb0493b8488e9a99574a8450f
+      internalID: 161896598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 242
+        width: 195
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810e8546de9a95646abec73cc57c2393
+      internalID: -1558491305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 190
+        width: 97
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e7ec373b9053b4ca7b0157ef7da662
+      internalID: 584638223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 121
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06797379060a8c4f9f7e5308617f4ed
+      internalID: -1468706085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 127
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb82f057c50c94c428d97e254df00a98
+      internalID: -635254571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 121
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b9087f5e219d46a46a20fa691d402
+      internalID: 1616301462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 190
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04408f15d71478d4cb31085acf23ca10
+      internalID: 1535782557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 95
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd51a6c6ca683545890974e27e78364
+      internalID: -574438642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b5510a04af0fa4ca84d765578d799b
+      internalID: 1321530149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 61
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ec3beeaed4d8a4fb47573b7ec2d857
+      internalID: 915423971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12e4b0d24bbaa4469f2aa296d35c181
+      internalID: 1286075765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 95
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b9b1a3f9d7ee4a86acd888fb85028
+      internalID: -1569196564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124acbf492fadcc4aba65601beaa93bd
+      internalID: -1650566435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommonBg_Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 0
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f499757bd147c541b53221b785e203a
+      internalID: 1344584221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CommonBg_Atlas_1: -876662883
+      CommonBg_Atlas_45: -1316526070
+      CommonBg_Atlas_70: 1535782557
+      CommonBg_Atlas_20: 833571371
+      CommonBg_Atlas_75: -1569196564
+      CommonBg_Atlas_15: -164471112
+      CommonBg_Atlas_54: -849728387
+      CommonBg_Atlas_28: 821327483
+      CommonBg_Atlas_9: -1106457779
+      CommonBg_Atlas_22: -207455729
+      CommonBg_Atlas_68: -635254571
+      CommonBg_Atlas_29: 758474479
+      CommonBg_Atlas_30: -219978032
+      CommonBg_Atlas_34: -1386042249
+      CommonBg_Atlas_61: 1910490908
+      CommonBg_Atlas_63: -640632756
+      CommonBg_Atlas_77: 1344584221
+      CommonBg_Atlas_5: 723369751
+      CommonBg_Atlas_53: 487545437
+      CommonBg_Atlas_18: 1196585181
+      CommonBg_Atlas_73: 915423971
+      CommonBg_Atlas_26: 224276253
+      CommonBg_Atlas_10: 1570545905
+      CommonBg_Atlas_48: 307047995
+      CommonBg_Atlas_69: 1616301462
+      CommonBg_Atlas_0: -1693051009
+      CommonBg_Atlas_27: -656750497
+      CommonBg_Atlas_51: -1624888711
+      CommonBg_Atlas_76: -1650566435
+      CommonBg_Atlas_35: 1074889347
+      CommonBg_Atlas_47: -1630355377
+      CommonBg_Atlas_56: -1747644689
+      CommonBg_Atlas_8: 732357536
+      CommonBg_Atlas_64: 161896598
+      CommonBg_Atlas_3: -1923309386
+      CommonBg_Atlas_31: -159603306
+      CommonBg_Atlas_11: 223938287
+      CommonBg_Atlas_74: 1286075765
+      CommonBg_Atlas_39: -959019241
+      CommonBg_Atlas_16: -235989387
+      CommonBg_Atlas_33: -1778564599
+      CommonBg_Atlas_52: -128342680
+      CommonBg_Atlas_2: 143163306
+      CommonBg_Atlas_71: -574438642
+      CommonBg_Atlas_62: -1866861955
+      CommonBg_Atlas_17: 560463705
+      CommonBg_Atlas_50: -1648420506
+      CommonBg_Atlas_19: 1428859592
+      CommonBg_Atlas_66: 584638223
+      CommonBg_Atlas_13: -108892535
+      CommonBg_Atlas_21: 722878429
+      CommonBg_Atlas_55: -919370735
+      CommonBg_Atlas_41: -831187119
+      CommonBg_Atlas_72: 1321530149
+      CommonBg_Atlas_12: -9399662
+      CommonBg_Atlas_38: -13554920
+      CommonBg_Atlas_37: 1503135198
+      CommonBg_Atlas_65: -1558491305
+      CommonBg_Atlas_4: -1740230204
+      CommonBg_Atlas_40: -239302960
+      CommonBg_Atlas_14: 1800722551
+      CommonBg_Atlas_32: 2041642357
+      CommonBg_Atlas_57: -1847506949
+      CommonBg_Atlas_60: -1681905015
+      CommonBg_Atlas_24: -914125638
+      CommonBg_Atlas_42: -299303927
+      CommonBg_Atlas_44: -1203423172
+      CommonBg_Atlas_6: 1366369693
+      CommonBg_Atlas_46: 1412445801
+      CommonBg_Atlas_25: -715206853
+      CommonBg_Atlas_23: 1070946014
+      CommonBg_Atlas_49: -1952037869
+      CommonBg_Atlas_43: 1454342896
+      CommonBg_Atlas_59: 1692848445
+      CommonBg_Atlas_67: -1468706085
+      CommonBg_Atlas_36: -1559520326
+      CommonBg_Atlas_7: 1502987424
+      CommonBg_Atlas_58: 1171371000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

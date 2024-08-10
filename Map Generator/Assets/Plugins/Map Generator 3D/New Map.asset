@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 046abe5ebfc763840be283928448306b, type: 3}
+  m_Name: New Map
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  findSpawnPos: 1
+  _borderMap: 1
+  _mapMatSO: {fileID: 11400000, guid: 1a5281f9e600e6b429b9e9c5372b93bd, type: 2}
+  _map:
+    width: 100
+    height: 100
+    wallsHeight: -50
+    randomFillPercent: 48
+    squareSize: 1
+    tunnelRadio: 5
+    seed: 0
+    smoothMapIterations: 5
+    lessOrganic: 50
+    _freeCellSpawners:
+    - freeCells: 1
+      spawnDendityIterationStep: 30
+      rotatePrefab90Horizontal: 1
+      addCollider: 0
+      GOScale: 3
+      offsetVertical: 0
+      normalToFloor: 0
+      distanceManaged: 0
+      GOs:
+      - {fileID: 9020082128189732583, guid: f07ba72e23322574a84ffc14b3e22df8, type: 3}
+    - freeCells: 1
+      spawnDendityIterationStep: 1
+      rotatePrefab90Horizontal: 1
+      addCollider: 0
+      GOScale: 1
+      offsetVertical: 0
+      normalToFloor: 0
+      distanceManaged: 0
+      GOs:
+      - {fileID: 5237029486745362348, guid: 938cb7974c98ab24b838b93906105fdd, type: 3}
+    - freeCells: 0
+      spawnDendityIterationStep: 1
+      rotatePrefab90Horizontal: 1
+      addCollider: 0
+      GOScale: 1
+      offsetVertical: 0
+      normalToFloor: 0
+      distanceManaged: 0
+      GOs:
+      - {fileID: 39247002373798090, guid: 467ae8605d02dd54f908377f7a3af145, type: 3}
+    - freeCells: 0
+      spawnDendityIterationStep: 30
+      rotatePrefab90Horizontal: 1
+      addCollider: 0
+      GOScale: 3
+      offsetVertical: 2
+      normalToFloor: 0
+      distanceManaged: 0
+      GOs:
+      - {fileID: 39247002373798090, guid: 5989d53e350f0254097ef2f82e20f294, type: 3}
+    _colliderSpawners:
+    - onTopOfTheWall: 1
+      spawnDensityIterationStep: 10
+      rotatePrefab90Horizontal: 1
+      addColliders: 0
+      GOscale: 0.5
+      offsetVertical: 0.5
+      normalToWall: 0
+      distanceManaged: 0
+      GOList: []
+      randomizeScale: 0
+      rotatePrefab90Vertical: 0
+      offsetNormalToWall: 0.5
+    - onTopOfTheWall: 0
+      spawnDensityIterationStep: 1
+      rotatePrefab90Horizontal: 0
+      addColliders: 0
+      GOscale: 0.4
+      offsetVertical: 0
+      normalToWall: 0
+      distanceManaged: 0
+      GOList:
+      - {fileID: 5204957610850559602, guid: c4c572ca0b5f0fb4d86f404173f65595, type: 3}
+      randomizeScale: 1
+      rotatePrefab90Vertical: 0
+      offsetNormalToWall: 0

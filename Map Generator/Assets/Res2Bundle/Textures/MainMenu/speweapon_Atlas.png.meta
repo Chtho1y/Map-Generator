@@ -1,0 +1,2084 @@
+fileFormatVersion: 2
+guid: 3ec62d3b1fe54b44c956e003bfd31165
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: speweapon_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82ffc557c198734aa071e379ce548cb
+      internalID: 15980134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 910
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09655d5d61c808f498c01b4122ab6bfd
+      internalID: 361337337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 910
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b5a571bcae7b048b2ef93e46f08ee4
+      internalID: 1055360538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 910
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6192eaf087dea2140bf98062282954f9
+      internalID: -987837820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 910
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368ef4e6cec168f41bd3f4ebd99b7d2d
+      internalID: 952877403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b987128d9dbee944a44d2d8067e1351
+      internalID: 97752295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 819
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648371524d713084e9a37a7414369967
+      internalID: -1269413411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 819
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f79f654de846b14db7c6e62715334dc
+      internalID: 1308966207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 819
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f11ec4b965f584e8a9716249c39c5a
+      internalID: 145296752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 819
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c2ca50da3d7824798747b9c5fb7c92
+      internalID: -2110596313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62947290a97c504486acd6c4f652bdd
+      internalID: 1526357254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 728
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb841972a57a0a40ada274ab3fd969f
+      internalID: -635877021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 728
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fcab62a3b89144d955361c8e4dd1c1
+      internalID: 1431136252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 728
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e1d59ced46a654484645960b490c92
+      internalID: -908270243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 728
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa636b46c12fce418e72a28e44b419c
+      internalID: 249030262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 637
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b0cd07c61d7894ca0d5d05ad2365a0
+      internalID: -848866006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 637
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf782eb7e77dab4b9072f0fd288c953
+      internalID: -1576524343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 637
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f6057723dfc6146a81346bfccd4b78
+      internalID: -1555870646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 637
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ddd45ae3e01944699d1c21c622d2f9
+      internalID: 1477759765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 637
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1f7202de70dd458b088a079e72ace
+      internalID: 1477345932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78835ee0ede03f54e9276d1ce46b2d17
+      internalID: 440790685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 546
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b105528930d07e419bdbc50973bf60a
+      internalID: 851818850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 546
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa72b6266f86e245883eea524cf232e
+      internalID: 791366784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 546
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af94ecaeb0e72084b80f6b98cffdb5da
+      internalID: -1943139990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 546
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65d36fefee3fda45bb8fa6cec26e274
+      internalID: 1830322462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 546
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2966e399a0c36ee4abaf654c9d09679b
+      internalID: 2056011083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67bb1ae579bb7646aa9893754e629e9
+      internalID: 1940713383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 455
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b97d1a6c5be42478010be9c9bb01a1
+      internalID: -1884987701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 455
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d87a54a6ffffef46826e762648bfe74
+      internalID: 1572428644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 455
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c78088dfec5df54c9f57b5aa7810116
+      internalID: -1148861492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 455
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abb5d9ca6eda9f4ba90a262950e0bd0
+      internalID: 1744418956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 455
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5894f391990ea124eaed594a45345094
+      internalID: -1579133174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a1fb4eaeceff34bb1cb82ea916af7a
+      internalID: -1441944937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 364
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b8377abf2b40b45b4f937a29b1cf3c
+      internalID: -1413123188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 364
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb506855127999429f9d86e31483306
+      internalID: 89084951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 348
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c137ee97b09c0b44da0107af1c13d27a
+      internalID: -1451542049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 364
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1886060a054844439301531a4091fd6
+      internalID: 388056464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 364
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6022ca3f07a88a94fa84fec125d2fe81
+      internalID: -1102405593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 364
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d115357fa196484584957ae0ae0d7cb
+      internalID: 1522029506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 364
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2410dadf1d2894d94a09fc95bf7476
+      internalID: -1615646189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 364
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67760433191ad1740a95f84ea0c6b63a
+      internalID: -1887502291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 364
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133437fd212b3bf49995e3d66b4d5790
+      internalID: 1614240836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 364
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9d21c142aec9a4baca913bd7309e3f
+      internalID: 1258450866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcfb108ed24afa42a6103f822e677e0
+      internalID: -326326274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 273
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2008a0c84f760334a8cc60b3c8ee2fac
+      internalID: 786647136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 273
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0dd4f0170be60429dcec7ca5876784
+      internalID: 1774119205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 273
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8adf3db5854464bb956c27de56ad09
+      internalID: 1009826082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 273
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc70e427ac1e48342b45f848ec965d00
+      internalID: -10377230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 273
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1556e069ec6c4144e855bc7dcf0b8997
+      internalID: -664039015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 273
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66bca4ea7f226048a3f9406e2afd270
+      internalID: -919079733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 273
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578e96197cea2c648b0b11f5735c7a7b
+      internalID: -1755809287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 273
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b572be3b889ae1d4d8215d3c66c72b68
+      internalID: -362922488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 256
+        width: 63
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e92096075046204ba7731939026f99b
+      internalID: 352520290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 273
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96d1e3f5da773046ad3b788bb961912
+      internalID: 1248417971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3666f14bd81c014185650bf415baa56
+      internalID: -1805278325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 182
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3c0d96fb4b5d545a71539a7ef5a3db
+      internalID: -690625309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 182
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3458deccf61a276408e48c27fe109a44
+      internalID: 2088310695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 182
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bbc0998e7aecb438029d3ee686ce24
+      internalID: 1225979065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 182
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7220e6b9e4497484baed8401f0b8733e
+      internalID: -104811555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 182
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476964d802f02d744874d55989eef54b
+      internalID: 70605096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 182
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0964f6d5563872c4aab955cbc8bd373d
+      internalID: 155000019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 182
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdaf816097584a4dbdda2fa74190515
+      internalID: 1313228059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 182
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7745d33840d5e4aa3ca14a616f4e2f
+      internalID: -803851766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 182
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699430c6d20cba34ebdf2ccfc06d77e8
+      internalID: -94273383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 182
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5089f0bb7ae664ca01ea04842ccbdf
+      internalID: 2047712787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11036c0931c05174f94619426764bc12
+      internalID: -1921639773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f4f32cdbe19d042850a2b62434d9a3
+      internalID: 2105074107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 91
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d5bb68f4183cd4f8f37aef3239c849
+      internalID: 1040290788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 91
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da1eb98e70ce394da084703a835b6c4
+      internalID: 1828600370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 91
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dd4af71b4a15643a155b38551bc75a
+      internalID: -1675412782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 91
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d660f77cdac7244b42363f10ad2c69
+      internalID: -736253708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 91
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc0efba086fff14ba278c6faa77075d
+      internalID: 1110231247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 91
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faf6deb1636ccb45bfe948bc5838b35
+      internalID: -359043912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 91
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6313b9ced35854d85caf958cdd9d1b
+      internalID: -986758613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 91
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb331df7357bb14da549ba1c9485693
+      internalID: 1067487513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 91
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c127256432be7bf4a9e8f17d413df48b
+      internalID: -1189572655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a150c4b8c50f44c8bdc83ab1a2ea3a
+      internalID: -298865031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d3f3402652b34baa800926ae7b8bf
+      internalID: -214389506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb179f70c76bc3441b08f814525c5443
+      internalID: -380979416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ab432d843547843bfc41b212da0cca
+      internalID: 941005196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e2353272eeb94993b1d7c6a337a3a
+      internalID: 986351954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0be2ec3ddf60646ae8375e4973694d
+      internalID: 796824432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46187c61827b96f4fb419537a0b79da8
+      internalID: 1607619229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8293400e2925c4fa21038c420eb5f7
+      internalID: -1688763179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5c6863e25a4847920a113f46b4596
+      internalID: -663250325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4041c72fbc01ed445a578354baea813c
+      internalID: 1835498869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speweapon_Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842bfd21efe4654488144ef6a21634be
+      internalID: -958182924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      speweapon_Atlas_57: 1225979065
+      speweapon_Atlas_85: 1835498869
+      speweapon_Atlas_54: -1805278325
+      speweapon_Atlas_7: 1308966207
+      speweapon_Atlas_43: -326326274
+      speweapon_Atlas_9: -2110596313
+      speweapon_Atlas_86: -958182924
+      speweapon_Atlas_80: 986351954
+      speweapon_Atlas_26: 1940713383
+      speweapon_Atlas_19: 1477345932
+      speweapon_Atlas_45: 1774119205
+      speweapon_Atlas_4: 952877403
+      speweapon_Atlas_38: 1522029506
+      speweapon_Atlas_55: -690625309
+      speweapon_Atlas_16: -1576524343
+      speweapon_Atlas_70: -736253708
+      speweapon_Atlas_78: -380979416
+      speweapon_Atlas_81: 796824432
+      speweapon_Atlas_20: 440790685
+      speweapon_Atlas_67: 1040290788
+      speweapon_Atlas_82: 1607619229
+      speweapon_Atlas_14: 249030262
+      speweapon_Atlas_3: -987837820
+      speweapon_Atlas_5: 97752295
+      speweapon_Atlas_25: 2056011083
+      speweapon_Atlas_15: -848866006
+      speweapon_Atlas_83: -1688763179
+      speweapon_Atlas_21: 851818850
+      speweapon_Atlas_68: 1828600370
+      speweapon_Atlas_52: 352520290
+      speweapon_Atlas_61: 1313228059
+      speweapon_Atlas_11: -635877021
+      speweapon_Atlas_56: 2088310695
+      speweapon_Atlas_58: -104811555
+      speweapon_Atlas_10: 1526357254
+      speweapon_Atlas_74: 1067487513
+      speweapon_Atlas_27: -1884987701
+      speweapon_Atlas_1: 361337337
+      speweapon_Atlas_33: -1413123188
+      speweapon_Atlas_36: 388056464
+      speweapon_Atlas_63: -94273383
+      speweapon_Atlas_23: -1943139990
+      speweapon_Atlas_0: 15980134
+      speweapon_Atlas_44: 786647136
+      speweapon_Atlas_76: -298865031
+      speweapon_Atlas_39: -1615646189
+      speweapon_Atlas_73: -986758613
+      speweapon_Atlas_31: -1579133174
+      speweapon_Atlas_41: 1614240836
+      speweapon_Atlas_59: 70605096
+      speweapon_Atlas_2: 1055360538
+      speweapon_Atlas_6: -1269413411
+      speweapon_Atlas_8: 145296752
+      speweapon_Atlas_49: -919079733
+      speweapon_Atlas_72: -359043912
+      speweapon_Atlas_69: -1675412782
+      speweapon_Atlas_64: 2047712787
+      speweapon_Atlas_47: -10377230
+      speweapon_Atlas_37: -1102405593
+      speweapon_Atlas_46: 1009826082
+      speweapon_Atlas_28: 1572428644
+      speweapon_Atlas_77: -214389506
+      speweapon_Atlas_22: 791366784
+      speweapon_Atlas_30: 1744418956
+      speweapon_Atlas_75: -1189572655
+      speweapon_Atlas_34: 89084951
+      speweapon_Atlas_18: 1477759765
+      speweapon_Atlas_17: -1555870646
+      speweapon_Atlas_32: -1441944937
+      speweapon_Atlas_40: -1887502291
+      speweapon_Atlas_24: 1830322462
+      speweapon_Atlas_35: -1451542049
+      speweapon_Atlas_48: -664039015
+      speweapon_Atlas_29: -1148861492
+      speweapon_Atlas_84: -663250325
+      speweapon_Atlas_65: -1921639773
+      speweapon_Atlas_42: 1258450866
+      speweapon_Atlas_66: 2105074107
+      speweapon_Atlas_53: 1248417971
+      speweapon_Atlas_12: 1431136252
+      speweapon_Atlas_51: -362922488
+      speweapon_Atlas_13: -908270243
+      speweapon_Atlas_50: -1755809287
+      speweapon_Atlas_79: 941005196
+      speweapon_Atlas_62: -803851766
+      speweapon_Atlas_60: 155000019
+      speweapon_Atlas_71: 1110231247
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

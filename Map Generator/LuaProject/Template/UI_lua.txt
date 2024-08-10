@@ -1,0 +1,51 @@
+---@type [%PREFAB_NAME%]Model
+local [%PREFAB_NAME%]Model = require('Window.[%PREFAB_NAME%].[%PREFAB_NAME%]Model')
+---@type [%PREFAB_NAME%]Meta
+local [%PREFAB_NAME%]Meta = require('Window.[%PREFAB_NAME%].[%PREFAB_NAME%]Meta')
+---@type [%PREFAB_NAME%]Meta
+local [%PREFAB_NAME%] = [%PREFAB_NAME%]Meta:Extends {}
+
+---初始化---
+function [%PREFAB_NAME%]:OnInit()
+    [%PREFAB_NAME%]Model:OnInit();
+    [%PREFAB_NAME%]Meta.OnInit(self);
+    
+end
+
+---销毁---
+function [%PREFAB_NAME%]:OnDispose()
+    [%PREFAB_NAME%]Meta.OnDispose(self);
+    [%PREFAB_NAME%]Model:OnDispose();
+end
+
+---没有具体逻辑注释掉---
+--function [%PREFAB_NAME%]:OnUpdate(dt)
+    
+--end
+
+---打开执行一次---
+function [%PREFAB_NAME%]:OnOpen(data)
+    
+end
+
+---刷新执行一次---
+function [%PREFAB_NAME%]:OnRefresh(data)
+
+end
+
+---关闭执行一次---
+function [%PREFAB_NAME%]:OnClose()
+
+end
+
+---暂停---
+function [%PREFAB_NAME%]:OnPause()
+    
+end
+
+---恢复---
+function [%PREFAB_NAME%]:OnResume()
+    
+end
+
+return [%PREFAB_NAME%]

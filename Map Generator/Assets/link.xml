@@ -1,0 +1,23 @@
+<linker>
+	<!--GENERATE_TAG-->
+	<assembly fullname="Assembly-CSharp" preserve="all" />
+	<assembly fullname="System.Core" preserve="all" />
+	<assembly fullname="UnityEngine">
+		<type fullname="UnityEngine.Animator" preserve="all"/>
+		<type fullname="UnityEngine.Animation" preserve="all"/>
+		<type fullname="UnityEngine.CoreModule" preserve="all"/>
+		<type fullname="UnityEngine.UI" preserve="all"/>
+		<type fullname="UnityEngine.UIModule" preserve="all"/>
+		<type fullname="UnityEngine.UnityWebRequestModule" preserve="all"/>
+	</assembly>
+	<assembly fullname="DarlingEngine">
+		<type fullname="DarlingEngine.Editor" preserve="all"/>
+		<type fullname="DarlingEngine.Engine" preserve="all"/>
+		<type fullname="DarlingEngine.Main" preserve="all"/>
+		<!-- <type fullname="DarlingEngine.Net" preserve="all"/>
+		<type fullname="DarlingEngine.SignIn" preserve="all"/> -->
+		<type fullname="DarlingEngine.UI" preserve="all"/>
+	</assembly>
+	<assembly fullname="DOTween" preserve="all" />
+
+</linker>

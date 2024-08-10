@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6197ed4a84fdd5f4ca70f4b7afc88c42, type: 3}
+  m_Name: NewMapMat
+  m_EditorClassIdentifier: 
+  _meshMaterial: {fileID: 2100000, guid: 0063a9532fdb583469d9a407bd9245d5, type: 2}
+  _meshMaterialTileX: 20
+  _floorMaterial: {fileID: 2100000, guid: 902813a726d48e8478d09fc48850d2be, type: 2}
+  _floorMaterialTileX: 20
+  _wallsMaterial: {fileID: 2100000, guid: d8d9647897c0ec540913ad69848107f1, type: 2}
+  _wallsMaterialTileX: 200
+  _waterMaterial: {fileID: 2100000, guid: d124b7176dc3c5243892e1fa6cdfc4c0, type: 2}
+  _waterMaterialTileX: 20
+  _mapLimitsWallsUp: {fileID: 2100000, guid: d124b7176dc3c5243892e1fa6cdfc4c0, type: 2}
+  _mapLimitsWallsUpTileX: 200
+  _mapLimitsTopUp: {fileID: 2100000, guid: d124b7176dc3c5243892e1fa6cdfc4c0, type: 2}
+  _mapLimitsTopUpTileX: 20
+  _mapLimitsWallsDown: {fileID: 2100000, guid: 0063a9532fdb583469d9a407bd9245d5, type: 2}
+  _mapLimitsWallsDownTileX: 200
+  _mapLimitsTopDown: {fileID: 2100000, guid: 0063a9532fdb583469d9a407bd9245d5, type: 2}
+  _mapLimitsTopDownTileX: 20

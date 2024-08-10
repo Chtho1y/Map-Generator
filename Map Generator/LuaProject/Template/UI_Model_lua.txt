@@ -1,0 +1,15 @@
+---@class [%PREFAB_NAME%]Model
+local [%PREFAB_NAME%]Model = Class {}
+
+---初始化---
+function [%PREFAB_NAME%]Model:OnInit()
+end
+
+---销毁---
+function [%PREFAB_NAME%]Model:OnDispose()
+
+end
+
+------------------------------
+
+return [%PREFAB_NAME%]Model

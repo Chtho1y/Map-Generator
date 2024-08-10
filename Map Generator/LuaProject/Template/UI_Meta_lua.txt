@@ -1,0 +1,27 @@
+---@class [%PREFAB_NAME%]Meta
+local [%PREFAB_NAME%]Meta = Window:Extends {}
+
+---初始化控件---
+function [%PREFAB_NAME%]Meta:OnInit()
+[%META_ON_INIT%]
+end
+
+---销毁控件---
+function [%PREFAB_NAME%]Meta:OnDispose()
+[%META_ON_DISPOSE%]
+end
+
+---注册控件---
+function [%PREFAB_NAME%]Meta:OnRegister()
+[%META_ON_REGISTER%]
+end
+
+---移除控件---
+function [%PREFAB_NAME%]Meta:OnRemove()
+[%META_ON_REMOVE%]
+end
+
+------------------------------
+[%META_APPEND_CODE%]
+
+return [%PREFAB_NAME%]Meta

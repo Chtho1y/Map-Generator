@@ -1,0 +1,1231 @@
+fileFormatVersion: 2
+guid: ede2557f3cc3c74478d97ce3294c75c2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameMain_Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 956
+        width: 400
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6306970699bf75f46ba4b2896328224e
+      internalID: 544084447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 951
+        width: 125
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcde42317d5311e4187c747f0256ca3f
+      internalID: -423701983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 851
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40d8e611ce987343a59b04303fb3915
+      internalID: 1016639138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 944
+        width: 336
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c995bc150eb2f47bdfa47eeb10bc38
+      internalID: 504314764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 913
+        width: 257
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dc78dff45456d4583f3d5237f066e9
+      internalID: 1802388748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 920
+        width: 169
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8c784a4dd8ed442b4d380e213aedcc
+      internalID: 945313228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 811
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851bad953b90be4d89d311caba2b41e
+      internalID: 2099878060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 899
+        width: 127
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197fda47c893a3c46af2fe2aeabd8f9a
+      internalID: 1913067729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 872
+        width: 132
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c1077b882367840b085290fd0fe95e
+      internalID: 1376339646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 886
+        width: 133
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601e71f77732c7047a8506fa04ba2544
+      internalID: -1961278822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 872
+        width: 128
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad20cd82114f694b981bf0f9e7b4dcb
+      internalID: 1951015327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59f1bf28d0f0eb4bb0a2b9a019d3da8
+      internalID: 316431427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 825
+        width: 152
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b31a16c334fe584a8f465cdd2ca20b2
+      internalID: 404299773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 825
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e87d98287b737428638f5d7a3b386f
+      internalID: -1287481481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 107
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd1c055ac47e944a45206ba7e84039
+      internalID: 628328160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 706
+        width: 107
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0516055426679d646978814482a08bca
+      internalID: -725448572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 708
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7944e21d50d9742baa37109a1b6e85
+      internalID: -185581129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 708
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0cefd09dbf3e543b9860f00eb50ccb
+      internalID: -1083944973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 638
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8071b713529cfae42803cb40f826683b
+      internalID: 1514575840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 601
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d36bb14fc4c7041a1ddebf4a4a119e
+      internalID: -378026057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 657
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6e0e7b9e74fa3408662a13b2738115
+      internalID: 1295719636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 600
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a84f81816bc04046a1bfe64cb4bc329
+      internalID: -1917895317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 539
+        width: 113
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21308c39e23d4240936958565d2a867
+      internalID: 1155387537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ebf73293fb52e438f701127db6cbb2
+      internalID: -1918064907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 601
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444225cccabf4d040a50e38ef874aba1
+      internalID: -86193417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 592
+        width: 258
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94505058c776ffa42885296ef8f40688
+      internalID: -1562828220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 539
+        width: 120
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc731c004430684fb29f5239d130759
+      internalID: 721144145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 475
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e36551315bfecf43830ffb987f6d868
+      internalID: -1802411146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 475
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7b8500aee7f46458b04403adbee42f
+      internalID: -1276997668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 543
+        width: 290
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e620c1657c3e624f95225e8f2fb2134
+      internalID: 1318225561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 542
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90ca46403281645b5ba9b6d100fc2d
+      internalID: 547791651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 164
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7c301c046d90441a43e356840d23db
+      internalID: -1445919825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 477
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afdedad46f6266469fc84612c3a66d3
+      internalID: 1274847491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 418
+        width: 128
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07460cdb132349d478ebd1b6a21558e8
+      internalID: 52711976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 418
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cc52e7350bb6d4f8bb22351ca8b62e
+      internalID: 1384009279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 420
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ce159c06ebc9347a687cfa90491e4c
+      internalID: -2140561275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 419
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb00e2023676a6745b27aca5e46622e3
+      internalID: -1554852533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 416
+        width: 358
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35537845151392409a0c75b85f6e374
+      internalID: -130250359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 357
+        width: 380
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c3500746ebcbc4fbfbc04d42b9f4c2
+      internalID: -1477288691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb87baed8d0024444a3541b5843c9c39
+      internalID: -1887877592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 227
+        width: 324
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e41da6c08cc44e9594d3280222d6e
+      internalID: -1788812238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 347
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d11685d9186fc41aae0d9b1fc80873
+      internalID: -1307226301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 584
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f95c98e8f9de7c46a678d7ed221ff66
+      internalID: -419145712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 238
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549cf2f45f52ef141b1c4b6c0a7a590c
+      internalID: 455039985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 127
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa15f591bbd47f439b2605a8db1458c
+      internalID: 2067488701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 303
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25f3ab487283554e8575eb07e0ba0c1
+      internalID: 276637382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameMain_Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 0
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1942bbb46fca51742bb298820f9748ce
+      internalID: 2069868553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GameMain_Atlas_9: -1961278822
+      GameMain_Atlas_58: 1042140144
+      GameMain_Atlas_46: -419145712
+      GameMain_Atlas_22: 1155387537
+      GameMain_Atlas_52: -1641426336
+      GameMain_Atlas_24: -86193417
+      GameMain_Atlas_21: -1917895317
+      GameMain_Atlas_33: 1274847491
+      GameMain_Atlas_31: 547791651
+      GameMain_Atlas_50: -1097752846
+      GameMain_Atlas_19: -378026057
+      GameMain_Atlas_16: -185581129
+      GameMain_Atlas_10: 1951015327
+      GameMain_Atlas_68: 276637382
+      GameMain_Atlas_57: -468060814
+      GameMain_Atlas_32: -1445919825
+      GameMain_Atlas_69: -559139364
+      GameMain_Atlas_48: 455039985
+      GameMain_Atlas_5: 945313228
+      GameMain_Atlas_44: -1788812238
+      GameMain_Atlas_73: 2069868553
+      GameMain_Atlas_55: -154164895
+      GameMain_Atlas_37: -1554852533
+      GameMain_Atlas_23: -1918064907
+      GameMain_Atlas_35: 1384009279
+      GameMain_Atlas_43: -1887877592
+      GameMain_Atlas_36: -2140561275
+      GameMain_Atlas_6: 2099878060
+      GameMain_Atlas_45: -1307226301
+      GameMain_Atlas_59: 696939802
+      GameMain_Atlas_47: -1529555973
+      GameMain_Atlas_72: -1332157851
+      GameMain_Atlas_8: 1376339646
+      GameMain_Atlas_25: -1562828220
+      GameMain_Atlas_67: -1917549301
+      GameMain_Atlas_62: 1979296969
+      GameMain_Atlas_20: 1295719636
+      GameMain_Atlas_42: -1477288691
+      GameMain_Atlas_2: 1016639138
+      GameMain_Atlas_7: 1913067729
+      GameMain_Atlas_64: -641150206
+      GameMain_Atlas_66: 354190855
+      GameMain_Atlas_38: -130250359
+      GameMain_Atlas_61: -1557551663
+      GameMain_Atlas_26: 721144145
+      GameMain_Atlas_71: -401195736
+      GameMain_Atlas_60: 1860968433
+      GameMain_Atlas_17: -1083944973
+      GameMain_Atlas_12: 404299773
+      GameMain_Atlas_70: -948456117
+      GameMain_Atlas_4: 1802388748
+      GameMain_Atlas_1: -423701983
+      GameMain_Atlas_11: 316431427
+      GameMain_Atlas_27: 1305039505
+      GameMain_Atlas_56: 1705177579
+      GameMain_Atlas_41: 2140813874
+      GameMain_Atlas_65: -480723519
+      GameMain_Atlas_40: 1859626311
+      GameMain_Atlas_3: 504314764
+      GameMain_Atlas_34: 52711976
+      GameMain_Atlas_0: 544084447
+      GameMain_Atlas_13: -1287481481
+      GameMain_Atlas_63: 1749207254
+      GameMain_Atlas_18: 1514575840
+      GameMain_Atlas_15: -725448572
+      GameMain_Atlas_53: 2067488701
+      GameMain_Atlas_30: 1318225561
+      GameMain_Atlas_39: 1249439108
+      GameMain_Atlas_54: -156688306
+      GameMain_Atlas_29: -1276997668
+      GameMain_Atlas_49: -799603417
+      GameMain_Atlas_14: 628328160
+      GameMain_Atlas_51: 1096587296
+      GameMain_Atlas_28: -1802411146
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
