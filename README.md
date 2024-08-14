@@ -1,2 +1,2 @@
 # Map-Generator
-Map Generator
+Unity Runtime Map Generator
